@@ -2,6 +2,7 @@
 1.This is a Telegram bot project named "TeleGramBot-InformativeAndCommunicative" and it provides weather information and engages in general conversation with users, keeping them informed,entertained and motivated.
 # Features
 1.Weather Information: The bot can provide weather information for a specific city. It uses the OpenWeatherMap API to fetch real-time weather data.
+
 2.General Conversation: The bot is capable of engaging in general conversation with users. It can respond to various greetings, inquiries about its identity, and questions about personal information.
 3.Date and Time: The bot can provide the current date and time. It uses the datetime and pytz libraries to fetch the date and time information and adjust it to the local timezone.
 4.Social Media Links: The bot can provide links to popular social media platforms such as YouTube, Instagram, LinkedIn, Facebook, Twitter, WhatsApp, and Gmail.
